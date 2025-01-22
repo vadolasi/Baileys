@@ -43,43 +43,43 @@
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@hapi/boom": "^9.1.3",
+    "@hapi/boom": "^9.1.4",
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "async-lock": "^1.4.1",
-    "audio-decode": "^2.1.3",
-    "axios": "^1.6.0",
+    "audio-decode": "^2.2.2",
+    "axios": "^1.7.9",
     "cache-manager": "^5.7.6",
-    "futoin-hkdf": "^1.5.1",
-    "libphonenumber-js": "^1.10.20",
+    "futoin-hkdf": "^1.5.3",
+    "libphonenumber-js": "^1.11.18",
     "libsignal": "github:WhiskeySockets/libsignal-node",
     "lodash": "^4.17.21",
-    "music-metadata": "^7.12.3",
+    "music-metadata": "^7.14.0",
     "node-cache": "^5.1.2",
-    "pino": "^7.0.0",
-    "protobufjs": "^7.2.4",
+    "pino": "^7.11.0",
+    "protobufjs": "^7.4.0",
     "uuid": "^10.0.0",
-    "ws": "^8.13.0"
+    "ws": "^8.18.0"
   },
   "devDependencies": {
-    "@types/got": "^9.6.11",
-    "@types/jest": "^27.5.1",
-    "@types/node": "^16.0.0",
-    "@types/sharp": "^0.29.4",
-    "@types/ws": "^8.0.0",
+    "@types/got": "^9.6.12",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.124",
+    "@types/sharp": "^0.29.5",
+    "@types/ws": "^8.5.13",
     "conventional-changelog-cli": "^2.2.2",
-    "eslint": "^8.0.0",
-    "jest": "^27.0.6",
-    "jimp": "^0.16.1",
+    "eslint": "^8.57.1",
+    "jest": "^27.5.1",
+    "jimp": "^0.16.13",
     "json": "^11.0.0",
-    "link-preview-js": "^3.0.0",
+    "link-preview-js": "^3.0.13",
     "open": "^8.4.2",
     "qrcode-terminal": "^0.12.0",
-    "release-it": "^15.10.3",
+    "release-it": "^15.11.0",
     "sharp": "^0.32.6",
-    "ts-jest": "^27.0.3",
-    "ts-node": "^10.8.1",
-    "typedoc": "^0.24.7",
-    "typescript": "^4.6.4"
+    "ts-jest": "^27.1.5",
+    "ts-node": "^10.9.2",
+    "typedoc": "^0.24.8",
+    "typescript": "^4.9.5"
   },
   "peerDependencies": {
     "jimp": "^0.16.1",
@@ -101,5 +101,5 @@
       "optional": true
     }
   },
-  "packageManager": "yarn@1.22.19"
+  "packageManager": "bun@1.1.42"
 }
